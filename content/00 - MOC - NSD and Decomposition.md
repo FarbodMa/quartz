@@ -3,10 +3,9 @@ title: MOC - NSD and Decomposition
 tags: [optimization, decomposition, nsd, moc]
 aliases: [Map of Content, NSD Map]
 ---
-
 # MOC - NSD and Decomposition
 
-This vault is a concept map for the ideas we discussed around constrained optimization, KKT systems, Newton's method, interior-point methods, dummy constraints, dummy-constraint duals, Schur complements, and the NSD-style decomposition logic.
+This vault is a concept map for the ideas we discussed around constrained optimization, KKT systems, Newton's method, interior-point methods, dummy constraints, dummy-constraint duals, Schur complements, and the NSD-style decomposition logic. HELLLLLLLLLLO!
 
 ## Start here
 
